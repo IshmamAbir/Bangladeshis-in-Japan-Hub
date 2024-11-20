@@ -1,0 +1,19 @@
+name: PR Title Formatter
+
+on:
+  push:
+    branches: [ft/pr-titile]
+  pull_request:
+    types: [opened, synchronize, reopened, edited]
+
+jobs:
+  format:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: deepakputhraya/action-pr-title@master
+        with:
+          allowed_prefixes: "Add,Fix,Update,Remove" # title should start with the given prefix
+          regex: '^:( ft|docs)\/[a-z]+(-[a-z0-9]+)*$' # Regex the title should match.
+          prefix_case_sensitive: true # title prefix are case insensitive
+          min_length: 5 # Min length of the title
+          max_length: 20 # Max length of the title
