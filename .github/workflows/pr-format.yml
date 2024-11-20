@@ -4,7 +4,7 @@ on:
   pull_request:
     types: [opened, synchronize, reopened, edited]
     paths:
-      - "**.md"
+      - README.md
 
 jobs:
   format:
