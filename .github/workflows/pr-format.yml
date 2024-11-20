@@ -1,9 +1,6 @@
 name: PR Title Formatter
 
 on:
-  push:
-    branches:
-      - ft/pr-title
   pull_request:
     types: [opened, synchronize, reopened, edited]
 
