@@ -2,7 +2,7 @@ name: PR Title Formatter
 
 on:
   push:
-    branches: [ft/pr-titile]
+    branches: [ft/pr-title]
   pull_request:
     types: [opened, synchronize, reopened, edited]
 
