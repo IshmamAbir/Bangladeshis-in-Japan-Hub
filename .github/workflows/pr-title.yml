@@ -7,8 +7,6 @@ on:
       - edited
       - synchronize
       - reopened
-    branches:
-      - ft/pr-title
 
 jobs:
   format:
@@ -16,5 +14,5 @@ jobs:
     steps:
       - uses: Slashgear/action-check-pr-title@v4.3.0
         with:
-          regexp: "^:( ft|docs)\/[a-z]+(-[a-z0-9]+)*$" # Regex the title should match.
+          regexp: "^:( ft|docs)\/[a-z]+(-[a-z0-9]+)*$"
           helpMessage: "Example: 'Add: ft/feature-name' or 'Update: docs/new-doc-about-visa-process'"
