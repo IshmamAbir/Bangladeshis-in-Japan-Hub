@@ -3,9 +3,6 @@ name: PR Title Formatter
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
-    paths:
-      - .github/workflows/**
-      - README.md
 
 jobs:
   format:
