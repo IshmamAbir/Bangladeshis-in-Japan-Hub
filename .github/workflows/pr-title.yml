@@ -9,7 +9,7 @@ on:
       - reopened
 
 jobs:
-  format:
+  Check-PR-Title:
     runs-on: ubuntu-latest
     steps:
       - uses: Slashgear/action-check-pr-title@v4.3.0
