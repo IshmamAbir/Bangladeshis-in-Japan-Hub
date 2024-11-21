@@ -3,6 +3,9 @@ name: PR Title Formatter
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
+  push:
+    branches:
+      - main
 
 jobs:
   format:
@@ -14,5 +17,5 @@ jobs:
           regex: '^:( ft|docs)\/[a-z]+(-[a-z0-9]+)*$' # Regex the title should match.
           prefix_case_sensitive: true # title prefix are case insensitive
           min_length: 5 # Min length of the title
-          max_length: 20 # Max length of the title
+          # max_length: 20 # Max length of the title
           github_token: ${{ secrets.API_TOKEN }} # Github token
