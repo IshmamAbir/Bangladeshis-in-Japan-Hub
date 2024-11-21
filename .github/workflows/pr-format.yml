@@ -3,9 +3,7 @@ name: PR Title Formatter
 on:
   pull_request:
     types: [opened, edited, synchronize, reopened]
-  push:
-    branches:
-      - ft/pr-title
+    paths: [".github/workflows/pr-format.yml"]
 
 jobs:
   format:
