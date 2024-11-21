@@ -3,8 +3,6 @@ name: PR Title Formatter
 on:
   pull_request:
     types: [opened, synchronize, reopened, edited]
-    paths:
-      - README.md
 
 jobs:
   format:
@@ -17,4 +15,4 @@ jobs:
           prefix_case_sensitive: true # title prefix are case insensitive
           min_length: 5 # Min length of the title
           max_length: 20 # Max length of the title
-          github_token: ${{ github.token }} # Github token
+          github_token: ${{ secrets.API_TOKEN }} # Github token
