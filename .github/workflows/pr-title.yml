@@ -1,0 +1,18 @@
+name: PR Title Formatter
+
+on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - synchronize
+      - reopened
+
+jobs:
+  Check-PR-Title:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Slashgear/action-check-pr-title@v4.3.0
+        with:
+          regexp: "^(Add|Update|Remove): (ft|docs)\\/[a-z]+(-[a-z0-9]+)*$"
+          helpMessage: "Example: 'Add: ft/feature-name' or 'Update: docs/new-doc-about-visa-process'"
