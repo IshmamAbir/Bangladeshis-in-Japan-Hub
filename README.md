@@ -49,7 +49,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
 - [Driving in Japan](#driving-in-japan)
   - [Getting a driver's license](#getting-a-drivers-license)
-  - [Internatioanal driving permits](#international-driving-permits)
+  - [Internatioanal driving permit](#international-driving-permit)
   - [Converting Bangladeshi driving license](#converting-bangladeshi-driving-license)
   - [Driving rules and regulations](#driving-rules-and-regulations)
 
@@ -151,7 +151,7 @@ Work in Progress
 ## Driving in Japan
 
 ### Getting a driver's license
-### Internatioanal driving permits
+### Internatioanal driving permit
 ### Converting Bangladeshi driving license
 ### Driving rules and regulations
 
