@@ -27,10 +27,10 @@ If you encounter any issues, feel free to [open an issue](https://github.com/Ish
 
 ## Guidelines
 
-- Ensure that your code passes all existing tests.
-- Write descriptive commit messages (e.g., `Fix: Corrected a typo in README`).
-- Adhere to the project's coding style.
-- Include documentation if you're adding new features or making significant changes.
+- [ ] Ensure that your code passes all existing tests.
+- [ ] Write descriptive commit messages (e.g., `Fix: Corrected a typo in README`).
+- [ ] Adhere to the project's coding style.
+- [ ] Include documentation if you're adding new features or making significant changes.
 
 ## Contact
 
