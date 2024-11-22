@@ -10,7 +10,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
   - [Applying for a visa](#applying-for-a-visa)
   - [Renewing residence permit](#renewing-residence-permit)
-  - [Renewing Passport](#renewing-passport)
+  - [Renewing passport](#renewing-passport)
   - [Switching visa types](#switching-visa-types)
   - [Immigration office location](#immigration-office-location)
 
@@ -48,8 +48,9 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
   - [Sending money to Bangladesh](#sending-money-to-bangladesh)
 
 - [Driving in Japan](#driving-in-japan)
+
   - [Getting a driver's license](#getting-a-drivers-license)
-  - [Internatioanal driving permit](#international-driving-permit)
+  - [International driving permit](#international-driving-permit)
   - [Converting Bangladeshi driving license](#converting-bangladeshi-driving-license)
   - [Driving rules and regulations](#driving-rules-and-regulations)
 
@@ -151,7 +152,7 @@ Work in Progress
 ## Driving in Japan
 
 ### Getting a driver's license
-### Internatioanal driving permit
+### International driving permit
 ### Converting Bangladeshi driving license
 ### Driving rules and regulations
 
