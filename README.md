@@ -10,6 +10,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
   - [Applying for a visa](#applying-for-a-visa)
   - [Renewing residence permit](#renewing-residence-permit)
+  - [Renewing Passport](#renewing-passport)
   - [Switching visa types](#switching-visa-types)
   - [Immigration office location](#immigration-office-location)
 
@@ -46,6 +47,12 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
   - [Mobile Payments in Japan](#mobile-payments-in-japan)
   - [Sending money to Bangladesh](#sending-money-to-bangladesh)
 
+- [Driving in Japan](#driving-in-japan)
+  - [Getting a driver's license](#getting-a-drivers-license)
+  - [Internatioanal driving permits](#international-driving-permits)
+  - [Converting Bangladeshi driving license](#converting-bangladeshi-driving-license)
+  - [Driving rules and regulations](#driving-rules-and-regulations)
+
 <!-- Not Planned yet
 - [Culture](#culture)
 
@@ -68,6 +75,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
 <!-- ### Applying for a visa
 ### Renewing residence permit
+### Renewing passport
 ### Switching visa types
 ### Immigration office location -->
 
@@ -113,6 +121,15 @@ Work in Progress
 ### Online banking in Japan
 ### Mobile Payments in Japan
 ### Sending money to Bangladesh -->
+
+Work in Progress
+
+## Driving in Japan
+
+<!-- ### Getting a driver's license
+### Internatioanal driving permits
+### Converting Bangladeshi driving license
+### Driving rules and regulations -->
 
 Work in Progress
 
