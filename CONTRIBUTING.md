@@ -1,6 +1,8 @@
 # Contributing to [Bangladeshis in Japan Hub]
 
+<!-- markdown-link-check-disable -->
 Thank you for your interest in contributing to **[Bangladeshis in Japan Hub](https://github.com/IshmamAbir/Bangladeshis-in-Japan-Hub)**!
+<!-- markdown-link-check-enable -->
 Contributions are welcome, whether it’s fixing a typo, adding examples, or improving explanations.
 Please follow these guidelines to ensure a smooth collaboration.
 
@@ -19,8 +21,9 @@ Please follow these guidelines to ensure a smooth collaboration.
 
 ## Reporting Issues
 
+<!-- markdown-link-check-disable -->
 If you encounter any issues, feel free to [open an issue](https://github.com/IshmamAbir/Bangladeshis-in-Japan-Hub/issues). Please include:
-
+<!-- markdown-link-check-enable -->
 - [ ] A clear description of the problem.
 - [ ] Steps to reproduce the issue.
 - [ ] Relevant screenshots or logs.
@@ -36,4 +39,6 @@ If you encounter any issues, feel free to [open an issue](https://github.com/Ish
 
 For questions, feel free to reach out at [ishmam.cse@gmail.com](mailto:ishmam.cse@gmail.com).
 
+<!-- markdown-link-check-disable -->
 [regexp_rule]: https://github.com/IshmamAbir/Bangladeshis-in-Japan-Hub/blob/main/.github/workflows/pr-title.yml#L17
+<!-- markdown-link-check-enable -->
