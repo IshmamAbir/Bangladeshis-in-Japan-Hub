@@ -66,65 +66,53 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
 ## Visa Process
 
-<!--
-### Applying for a visa
+<!-- ### Applying for a visa
 ### Renewing residence permit
 ### Switching visa types
-### Immigration office location
--->
+### Immigration office location -->
 
 work in Progress
 
 ## Education
 
-<!--
-### Admission process for schools and universities
+<!-- ### Admission process for schools and universities
 ### Scholarships for Bangladeshi students
-### Language learning resources
--->
+### Language learning resources -->
 
 Work in Progress
 
 ## Job Search
 
-<!--
-### Finding job portals and agencies
+<!-- ### Finding job portals and agencies
 ### Part-time jobs
-### Work culture in Japan
--->
+### Work culture in Japan -->
 
 Work in Progress
 
 ## Housing
 
-<!--
-### Renting apartments and housing laws
+<!-- ### Renting apartments and housing laws
 ### Utilities setup
-### Cost of living and affordable housing options
- -->
+### Cost of living and affordable housing options -->
 
 Work in Progress
 
 ## Healthcare
 
-<!--
-### Japanese healthcare system overview
+<!-- ### Japanese healthcare system overview
 ### Visiting a doctor
 ### Using an Ambulance
 ### Getting health insurance
-### Emergency medical contacts
- -->
+### Emergency medical contacts -->
 
 Work in Progress
 
 ## Banking
 
-<!--
-### Opening a bank account
+<!-- ### Opening a bank account
 ### Online banking in Japan
 ### Mobile Payments in Japan
-### Sending money to Bangladesh
- -->
+### Sending money to Bangladesh -->
 
 Work in Progress
 
