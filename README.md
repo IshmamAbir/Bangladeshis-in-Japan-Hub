@@ -73,66 +73,100 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
 ## Visa Process
 
-<!-- ### Applying for a visa
+### Applying for a visa
 ### Renewing residence permit
 ### Renewing passport
 ### Switching visa types
-### Immigration office location -->
+### Immigration office location
 
 work in Progress
 
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
+
 ## Education
 
-<!-- ### Admission process for schools and universities
+### Admission process for schools and universities
 ### Scholarships for Bangladeshi students
-### Language learning resources -->
+### Language learning resources
 
 Work in Progress
+
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Job Search
 
-<!-- ### Finding job portals and agencies
+### Finding job portals and agencies
 ### Part-time jobs
-### Work culture in Japan -->
+### Work culture in Japan
 
 Work in Progress
+
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Housing
 
-<!-- ### Renting apartments and housing laws
+### Renting apartments and housing laws
 ### Utilities setup
-### Cost of living and affordable housing options -->
+### Cost of living and affordable housing options
 
 Work in Progress
+
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Healthcare
 
-<!-- ### Japanese healthcare system overview
+### Japanese healthcare system overview
 ### Visiting a doctor
 ### Using an Ambulance
 ### Getting health insurance
-### Emergency medical contacts -->
+### Emergency medical contacts
 
 Work in Progress
+
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Banking
 
-<!-- ### Opening a bank account
+### Opening a bank account
 ### Online banking in Japan
 ### Mobile Payments in Japan
-### Sending money to Bangladesh -->
+### Sending money to Bangladesh
 
 Work in Progress
+
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Driving in Japan
 
-<!-- ### Getting a driver's license
+### Getting a driver's license
 ### Internatioanal driving permits
 ### Converting Bangladeshi driving license
-### Driving rules and regulations -->
+### Driving rules and regulations
 
 Work in Progress
 
-### Contact
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
+
+Work in Progress
+
+#### Contact
 
 For suggestions or queries, please contact: [ishmam.cse@gmail.com](mailto:ishmam.cse@gmail.com)
+
+<!--lint disable double-link -->
+**[⬆ back to top](#contents)**
+<!--lint enable double-link -->
