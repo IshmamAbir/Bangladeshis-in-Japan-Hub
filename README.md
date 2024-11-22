@@ -22,7 +22,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 - [Job Search](#job-search)
 
   - [Finding job portals and agencies](#finding-job-portals-and-agencies)
-  - [Preparing resumes and interviews](#preparing-resumes-and-interviews)
+  - [Part-time jobs](#part-time-jobs)
   - [Work culture in Japan](#work-culture-in-japan)
 
 - [Housing](#housing)
@@ -64,13 +64,70 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
   - [Bangladeshi organizations in Japan](#bangladeshi-organizations-in-japan)
   - [Religious and cultural centers](#religious-and-cultural-centers) -->
 
-## How to Contribute
+## Visa Process
 
-1. Fork this repository.
-2. Create a branch with the topic you want to contribute to.
-3. Add or edit the markdown file in the `topics` folder.
-4. Submit a pull request for review.
+<!--
+### Applying for a visa
+### Renewing residence permit
+### Switching visa types
+### Immigration office location
+-->
 
-## Contact
+work in Progress
+
+## Education
+
+<!--
+### Admission process for schools and universities
+### Scholarships for Bangladeshi students
+### Language learning resources
+-->
+
+Work in Progress
+
+## Job Search
+
+<!--
+### Finding job portals and agencies
+### Part-time jobs
+### Work culture in Japan
+-->
+
+Work in Progress
+
+## Housing
+
+<!--
+### Renting apartments and housing laws
+### Utilities setup
+### Cost of living and affordable housing options
+ -->
+
+Work in Progress
+
+## Healthcare
+
+<!--
+### Japanese healthcare system overview
+### Visiting a doctor
+### Using an Ambulance
+### Getting health insurance
+### Emergency medical contacts
+ -->
+
+Work in Progress
+
+## Banking
+
+<!--
+### Opening a bank account
+### Online banking in Japan
+### Mobile Payments in Japan
+### Sending money to Bangladesh
+ -->
+
+Work in Progress
+
+### Contact
 
 For suggestions or queries, please contact: [ishmam.cse@gmail.com](mailto:ishmam.cse@gmail.com)
