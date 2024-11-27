@@ -21,7 +21,8 @@ jobs:
           echo "Checking markdown files..."
           # Find all .md files excluding root README.md and files in .github/workflows
           find . -name "*.md" \
-            ! -path "./README.md" | while read file; do
+            ! -path "./README.md" \
+            ! -path "./.github/*" | while read file; do
               # Check the first line of each file
               first_line=$(head -n 1 "$file")
               if [[ "$first_line" != "⬅️ [Back to Main Menu](../README.md#contents)" ]]; then
