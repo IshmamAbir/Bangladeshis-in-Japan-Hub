@@ -1,5 +1,4 @@
 <!--lint ignore awesome-badge -->
-<!--lint ignore awesome-toc -->
 
 # Bangladeshi People Living in Japan
 
@@ -7,6 +6,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
 ## Contents
 
+<!--lint ignore awesome-toc -->
 - [Visa Process](#visa-process)
 
   - [Applying for a visa](#applying-for-a-visa)
