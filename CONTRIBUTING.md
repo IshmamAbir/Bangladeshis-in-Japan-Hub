@@ -1,4 +1,4 @@
-⬅️ [Back to Main Menu](../README.md#contents)
+⬅️ [Back to Main Menu](./README.md#contents)
 
 # :octocat: Contributing to [Bangladeshis in Japan Hub]
 
