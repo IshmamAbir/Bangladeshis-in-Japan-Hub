@@ -10,7 +10,7 @@ If you're living in Japan and need to re-issue your Bangladeshi passport, you ca
 
 You will have two options for applying a passport reissue.
 
-- [Apply by Visiting the Embassy](#️-option-1-apply-by-visiting-the-embassy)
+- [Apply by Visiting the Embassy](#-option-1-apply-by-visiting-the-embassy)
 - [Apply by Post](#-option-2-apply-by-post)
 
 ### 🏢 Option 1: Apply by Visiting the Embassy
@@ -31,7 +31,7 @@ Before heading to the embassy, ensure you have the following documents:
 
 For postal applications, gather these additional items:
 
-- All documents listed in the "[Apply by Visiting the Embassy](#️-option-1-apply-by-visiting-the-embassy)" section.
+- All documents listed in the "[Apply by Visiting the Embassy](#-option-1-apply-by-visiting-the-embassy)" section.
 - A **self-addressed return envelope** with the correct postage for sending your passport back.
 - Declaration Form (Described below)
 
@@ -51,16 +51,19 @@ For postal applications, gather these additional items:
    - Write your personal information on a blank paper and include it with the application form. Don't forget to sign it. It will look like the example below:
 
      ![Personal Information](../resources/images/visa-process/personal-info.png)
+
      you can also find this file in the [resources folder](../resources/files/personal-info.docx) and download it.
 
    - When applying through the post, include a self-addressed return envelope with the correct postage. Don't forget to fill in the addresses on the back of the envelope. You can buy this red bordered `Letter Pack Plus` envelope at any convenience store(e.g. 7-Eleven, Lawson, etc). It will cost you 600 yen. Show the below envelope image at the convenience store or ask the staff for red bordered envelop.
 
      ![Envelope](../resources/images/visa-process/envelope.png)
+
      Buy two envelopes at once because you have to send your passport & application using the same envelope. Fill in the addresses on the back of the envelope of the return envelope and put it with the application form. Its totally fine to do a single fold of the return elvelope.
 
    - When applying through the post, include a Declaration statement form with the application where you declare that embassy is not responsible for any damage or loss to your passport while sending it by post. Don't forget to sign it. It will look like the example below:
 
      ![Declaration Form](../resources/images/visa-process/statement-declaration.png)
+
      you can also find this file in the [resources folder](../resources/files/declaration-statement.docx) and download it.
 
 2. **Fill Out the Application Form:**
