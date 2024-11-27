@@ -1,5 +1,3 @@
-<!--lint ignore awesome-badge -->
-
 # Bangladeshi People Living in Japan
 
 A comprehensive resource for Bangladeshi individuals residing in Japan. This repository provides information, guides, and solutions to commonly searched topics to help make life in Japan easier for the Bangladeshi community.
