@@ -61,7 +61,7 @@ For postal applications, gather these additional items:
    - When applying through the post, include a Declaration statement form with the application where you declare that embassy is not responsible for any damage or loss to your passport while sending it by post. Don't forget to sign it. It will look like the example below:
 
      ![Declaration Form](../resources/images/visa-process/statement-declaration.png)
-     you can also find this file in the [resources folder](../resources/files/statement-declaration.docx) and download it.
+     you can also find this file in the [resources folder](../resources/files/declaration-statement.docx) and download it.
 
 2. **Fill Out the Application Form:**
 
