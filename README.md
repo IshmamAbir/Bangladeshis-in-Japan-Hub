@@ -10,7 +10,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
   - [Applying for a visa](#applying-for-a-visa)
   - [Renewing residence permit](#renewing-residence-permit)
-  - [Renewing passport](#renewing-passport)
+  - [Renewing passport](./visa-process/renewing-passport.md)
   - [Switching visa types](#switching-visa-types)
   - [Immigration office location](#immigration-office-location)
 
@@ -76,7 +76,6 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
 ### Applying for a visa
 ### Renewing residence permit
-### Renewing passport
 ### Switching visa types
 ### Immigration office location
 
