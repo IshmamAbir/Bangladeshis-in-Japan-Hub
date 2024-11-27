@@ -1,0 +1,32 @@
+name: Check Back Button
+
+on:
+  push:
+    paths:
+      - "**/*.md"
+  pull_request:
+    paths:
+      - "**/*.md"
+
+jobs:
+  check-markdown:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout the repository
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      # Run the check script
+      - name: Verify Markdown Files
+        run: |
+          echo "Checking markdown files..."
+          # Find all .md files excluding root README.md
+          find . -name "*.md" ! -path "./README.md" | while read file; do
+            # Check the first line of each file
+            first_line=$(head -n 1 "$file")
+            if [[ "$first_line" != "⬅️ [Back to Main Menu](../README.md#contents)" ]]; then
+              echo "❌ Error: $file does not contain the required first line."
+              exit 1
+            fi
+          done
+          echo "✅ All markdown files contain the required first line."
