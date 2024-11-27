@@ -1,4 +1,6 @@
-# Contributing to [Bangladeshis in Japan Hub]
+⬅️ [Back to Main Menu](./README.md#contents)
+
+# :octocat: Contributing to [Bangladeshis in Japan Hub]
 
 <!-- markdown-link-check-disable -->
 Thank you for your interest in contributing to **[Bangladeshis in Japan Hub](https://github.com/IshmamAbir/Bangladeshis-in-Japan-Hub)**!
