@@ -1,4 +1,5 @@
-<!--lint ignore awesome-badge -->
+<!--lint disable awesome-badge -->
+<!--lint disable awesome-list-item -->
 
 # Bangladeshi People Living in Japan
 
@@ -79,7 +80,6 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 ### Renewing residence permit
 ### Renewing passport
 Topics related to renewing passport in Japan
-<!--lint ignore awesome-list-item -->
 - [Full Process](./visa-process/renewing-passport.md)
 ### Switching visa types
 ### Immigration office location
