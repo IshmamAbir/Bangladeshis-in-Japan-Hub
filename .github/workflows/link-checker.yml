@@ -10,6 +10,8 @@ on:
       - edited
       - synchronize
       - reopened
+  schedule:
+    - cron: "0 8 * * *"
 
 jobs:
   markdown-link-check:

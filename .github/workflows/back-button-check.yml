@@ -33,8 +33,16 @@ jobs:
                 expected_line="⬅️ [Back to Main Menu](./README.md#contents)"
               else
                 # File is in a subdirectory or deeper
-                expected_line="⬅️ [Back to Main Menu]($(printf '../'$(seq -f "%g" 1 $depth | tr '\n' '/'))README.md#contents)"
+                expected_line="⬅️ [Back to Main Menu]($(printf '../%.0s' $(seq 1 $depth))README.md#contents)"
               fi
+
+              # Debugging: Print calculated values
+              echo "Checking file: $file"
+              echo "Directory: $directory"
+              echo "Depth: $depth"
+              echo "Expected Line: $expected_line"
+              echo "-----------------------------------"
+
 
               # Check the first line of the file
               first_line=$(head -n 1 "$file")
