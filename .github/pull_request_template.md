@@ -35,7 +35,5 @@
 ---
 
 <!-- markdown-link-check-disable -->
-
 [regexp_rule]: https://github.com/IshmamAbir/Bangladeshis-in-Japan-Hub/blob/main/.github/workflows/pr-title.yml#L17
-
 <!-- markdown-link-check-enable -->
