@@ -78,6 +78,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 ### Applying for a visa
 ### Renewing residence permit
 ### Renewing passport
+Topics related to renewing passport in Japan
 - [Full Process](./visa-process/renewing-passport.md)
 ### Switching visa types
 ### Immigration office location
