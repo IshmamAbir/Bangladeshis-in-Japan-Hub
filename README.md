@@ -1,3 +1,4 @@
+<!--lint ignore double-link -->
 <!--lint disable awesome-badge -->
 <!--lint disable awesome-list-item -->
 
