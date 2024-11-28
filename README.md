@@ -15,6 +15,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
   - [Renewing residence permit](#renewing-residence-permit)
   - [Renewing passport](#renewing-passport)
   - [Switching visa types](#switching-visa-types)
+  - [Switching visa types](#switching-visa-types)
   - [Immigration office location](#immigration-office-location)
 
 - [Education](#education)
