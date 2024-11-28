@@ -1,4 +1,5 @@
 <!--lint ignore awesome-badge -->
+<!--lint ignore awesome-list-item -->
 
 # Bangladeshi People Living in Japan
 
