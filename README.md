@@ -87,9 +87,7 @@ Topics related to renewing passport in Japan
 
 work in Progress
 
-<!--lint disable double-link -->
 **[⬆ back to top](#contents)**
-<!--lint enable double-link -->
 
 ## Education
 
@@ -99,9 +97,7 @@ work in Progress
 
 Work in Progress
 
-<!--lint disable double-link -->
 **[⬆ back to top](#contents)**
-<!--lint enable double-link -->
 
 ## Job Search
 
@@ -111,9 +107,7 @@ Work in Progress
 
 Work in Progress
 
-<!--lint disable double-link -->
 **[⬆ back to top](#contents)**
-<!--lint enable double-link -->
 
 ## Housing
 
