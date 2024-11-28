@@ -1,6 +1,6 @@
 <!--lint ignore double-link -->
-<!--lint disable awesome-badge -->
-<!--lint disable awesome-list-item -->
+<!--lint ignore awesome-badge -->
+<!--lint ignore awesome-list-item -->
 
 # Bangladeshi People Living in Japan
 
@@ -86,8 +86,9 @@ Topics related to renewing passport in Japan
 ### Immigration office location
 
 work in Progress
-
+<!--lint disable double-link -->
 **[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Education
 
@@ -97,7 +98,9 @@ work in Progress
 
 Work in Progress
 
+<!--lint disable double-link -->
 **[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Job Search
 
@@ -107,7 +110,9 @@ Work in Progress
 
 Work in Progress
 
+<!--lint disable double-link -->
 **[⬆ back to top](#contents)**
+<!--lint enable double-link -->
 
 ## Housing
 
