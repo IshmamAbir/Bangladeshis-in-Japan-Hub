@@ -17,6 +17,8 @@ This guide provides a detailed explanation of the process of obtaining a driving
   - [Categories and Prerequisites](#categories-and-prerequisites)
   - [Licence Acquiring Process](#licence-acquiring-process)
 - [Moped License](#3-moped-license-原付免許---gentsuki-menkyo)
+  - [Licence Acquiring Process](#moped-licence-acquiring-process)
+  - [Rules for Moped Riders](#rules-for-moped-riders)
 
 ---
 
@@ -25,19 +27,19 @@ This guide provides a detailed explanation of the process of obtaining a driving
 In Japan, there are several types of licenses including small vehicles, three wheelers, large vehiceles, trucks, tractors, trailers, etc. Each license type has its own requirements and procedures.
 For out convenience, we will focus on **car**, **motorcycle**, and **moped** licenses.
 
-### 1. **Car License (`普通自動車免許 => Futsuu Jidousha Menkyo`)**
+### 1. **Car License** (`普通自動車免許 => Futsuu Jidousha Menkyo`)
 
 - **Type 1 (Standard Car License):** Covers vehicles under 3.5 tons.
 - **Type 2 (Professional License):** Required for taxi, bus, or commercial drivers.
   > We will focus on **Type 1**.
 
-### 2. **Motorcycle License (`二輪車免許 => Nirinsha Menkyo`)**
+### 2. **Motorcycle License** (`二輪車免許 => Nirinsha Menkyo`)
 
 - **Small Motorcycle (小型二輪):** For motorcycles with engine displacement under 125cc.
 - **Ordinary Motorcycle (普通二輪):** For motorcycles up to 400cc.
 - **Large Motorcycle (大型二輪):** For motorcycles exceeding 400cc.
 
-### 3. **Moped License (`原付免許 => Gentsuki Menkyo`)**
+### 3. **Moped License** (`原付免許 => Gentsuki Menkyo`)
 
 - For mopeds with an engine displacement of 50cc or less.
 
@@ -206,7 +208,7 @@ This Process is the same as for a car license. The only difference is the total 
 
 ## Moped License
 
-### Licence Acquiring Process
+### Moped Licence Acquiring Process
 
 This process only requires a written test. You don't need to take a driving test. The test is a multiple choice test. 50 questions will be provided to you.
 
@@ -222,7 +224,7 @@ After the class, the staff will take you to a driving course for your 3-hour Saf
 - **Helmet:** Wearing a helmet is mandatory.
 - **Passenger Restrictions:** No passengers allowed on mopeds.
 
-## **[⬆ back to top](#contents)**
+**[⬆ back to top](#contents)**
 
 ## Tips for Preparing
 
