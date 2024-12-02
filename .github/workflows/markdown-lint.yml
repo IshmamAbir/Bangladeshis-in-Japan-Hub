@@ -1,0 +1,19 @@
+name: Markdown Lint Check
+
+on:
+  push:
+    branches:
+      - ft/markdown-lint
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: DavidAnson/markdownlint-cli2-action@v18
+        with:
+          globs: |
+            *.md
+            visa-process/*.md
+            !.github/*.md
+            !resources/*.md

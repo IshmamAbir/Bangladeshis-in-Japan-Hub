@@ -66,6 +66,8 @@ For postal applications, gather these additional items:
 
      you can also find this file in the [resources folder](../resources/files/declaration-statement.docx) and download it.
 
+[⬆ Back to top](#-step-by-step-guide-to-re-issue-your-bangladeshi-passport-in-japan)
+
 2. **Fill Out the Application Form:**
 
    - Download the form from the [Consular Service Section](http://www.passport.gov.bd/Reports/MRP_Information_Alteration_Correction.pdf).
@@ -129,7 +131,7 @@ For postal applications, gather these additional items:
    - **Apply by Post**:
      - Package all documents securely.
      - dont forget to add the declaration form & return envelope to the package.
-     - dont forget to fill in the return envelope with your address.
+     - dont  forget to fill in the return envelope with your address.
      - Embassy address is the same as above.
      - Keep a photo of the the envelopes for tracking purpose.
      - You can track your envelopes from [here](https://www.post.japanpost.jp/index_en.html).
