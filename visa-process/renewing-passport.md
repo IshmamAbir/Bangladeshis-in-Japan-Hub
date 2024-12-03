@@ -115,13 +115,16 @@ For postal applications, gather these additional items:
      - Take all your documents to the Bangladesh Embassy in Tokyo.
      - Submit your application at the **Consular Section**.
      - Embassy Address:
+
        ```
        Embassy of Bangladesh, Tokyo
        〒102-0094
        3-29, Kioicho, Chiyoda-ku Tokyo
        Telephone:  +813 3234 5801
        ```
+
        In japanese:
+
        ```
        Embassy of Bangladesh
        〒102-0094, 東京都千代田区紀尾井町3-29
@@ -130,8 +133,8 @@ For postal applications, gather these additional items:
 
    - **Apply by Post**:
      - Package all documents securely.
-     - dont forget to add the declaration form & return envelope to the package.
-     - dont  forget to fill in the return envelope with your address.
+     - Don't forget to add the declaration form & return envelope to the package.
+     - Don't forget to fill in the return envelope with your address.
      - Embassy address is the same as above.
      - Keep a photo of the the envelopes for tracking purpose.
      - You can track your envelopes from [here](https://www.post.japanpost.jp/index_en.html).
