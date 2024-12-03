@@ -1,9 +1,15 @@
 name: Markdown Lint Check
 
 on:
+  pull_request:
+    types:
+      - opened
+      - edited
+      - synchronize
+      - reopened
   push:
     branches:
-      - ft/markdown-lint
+      - main
 
 jobs:
   lint:
