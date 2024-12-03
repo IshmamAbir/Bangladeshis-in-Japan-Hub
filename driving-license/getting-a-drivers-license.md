@@ -7,16 +7,16 @@ This guide provides a detailed explanation of the process of obtaining a driving
 ## Contents
 
 - [License Types](#license-types)
-- [Car License](#1-car-license-普通自動車免許---futsuu-jidousha-menkyo)
+- [Car License](#automatic-vs-manual-car-licenses)
   - [Automatic vs Manual Car Licenses](#automatic-vs-manual-car-licenses)
   - [Methods to Obtain a Driving License](#methods-to-obtain-a-driving-license)
   - [Driving Schools and Camps](#driving-schools-and-camps)
-  - [Karimen and Honmen Breakdown](#karmen-and-honmen-breakdown)
+  - [Karimen and Honmen Breakdown](#karimen-and-honmen-breakdown)
   - [Tips for Preparing](#tips-for-preparing)
-- [Motorcycle License](#2-motorcycle-license-二輪車免許---nirinsha-menkyo)
+- [Motorcycle License](#motorcycle-license)
   - [Categories and Prerequisites](#categories-and-prerequisites)
   - [Licence Acquiring Process](#licence-acquiring-process)
-- [Moped License](#3-moped-license-原付免許---gentsuki-menkyo)
+- [Moped License](#moped-license)
   - [Licence Acquiring Process](#moped-licence-acquiring-process)
   - [Rules for Moped Riders](#rules-for-moped-riders)
 
@@ -82,7 +82,7 @@ For ordinary car licenses, there are two main license options:
 2. **License Conversion (外国免許切替 - Gaikoku Menkyo Kirikae)**
    - For those holding a valid foreign driving license.
    - Includes a written test, eye test, and practical driving test.
-     > License conversion is dicussed on the [License Conversion](#) page.
+     > License conversion is dicussed on the [License Conversion](#) page. <!-- markdownlint-disable-line MD042 -->
 
 ---
 
