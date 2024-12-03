@@ -90,13 +90,15 @@ For postal applications, gather these additional items:
    - Make a photocopy of the furikomi receipt and keep it to yourself.
    - Obtain a receipt or stamp as proof of payment.
    - Bank details for payment:
-     | Title | Description |
-     |:----------|:----------|
-     | Account Name | Embassy of Bangladesh Tokyo Consular |
-     | Bank Name | Mitsubishi UFJ Bank (MUFJ) |
-     | Branch Name | Kojimachi(Code: 616) |
+
+     | Title           | Description                              |
+     | :-------------- | :--------------------------------------- |
+     | Account Name    | Embassy of Bangladesh Tokyo Consular     |
+     | Bank Name       | Mitsubishi UFJ Bank (MUFJ)               |
+     | Branch Name     | Kojimachi(Code: 616)                     |
      | Type of Account | Ordinary Bank Account (`普通 => Futsuu`) |
-     | Account No. | 0393471 |
+     | Account No.     | 0393471                                  |
+
      > **⚠ Warning**: Confirm the bank details with the embassy website [here](http://bdembjp.mofa.gov.bd/consular-service) before transferring.
 
    **Tips**: I went physically to the Miyazaki Bank and asked for a Bank Transfer(`振込 => furikomi`) to other bank; I paid 18,000 yen in cash at the counter along with the transfer fee of 660 yen.
@@ -113,14 +115,17 @@ For postal applications, gather these additional items:
      - Take all your documents to the Bangladesh Embassy in Tokyo.
      - Submit your application at the **Consular Section**.
      - Embassy Address:
-       ```
+
+       ```text
        Embassy of Bangladesh, Tokyo
        〒102-0094
        3-29, Kioicho, Chiyoda-ku Tokyo
        Telephone:  +813 3234 5801
        ```
+
        In japanese:
-       ```
+
+       ```text
        Embassy of Bangladesh
        〒102-0094, 東京都千代田区紀尾井町3-29
        電話番号: +813 3234 5801
@@ -128,8 +133,8 @@ For postal applications, gather these additional items:
 
    - **Apply by Post**:
      - Package all documents securely.
-     - dont forget to add the declaration form & return envelope to the package.
-     - dont forget to fill in the return envelope with your address.
+     - Don't forget to add the declaration form & return envelope to the package.
+     - Don't forget to fill in the return envelope with your address.
      - Embassy address is the same as above.
      - Keep a photo of the the envelopes for tracking purpose.
      - You can track your envelopes from [here](https://www.post.japanpost.jp/index_en.html).

@@ -75,14 +75,20 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 ## Visa Process
 
 ### Applying for a visa
+
 ### Renewing residence permit
+
 ### Renewing passport
+
 <!-- Topics related to renewing passport in Japan
 - [Full Process](./visa-process/renewing-passport.md) -->
+
 ### Switching visa types
+
 ### Immigration office location
 
 work in Progress
+
 <!--lint disable double-link -->
 **[⬆ back to top](#contents)**
 <!--lint enable double-link -->
@@ -90,7 +96,9 @@ work in Progress
 ## Education
 
 ### Admission process for schools and universities
+
 ### Scholarships for Bangladeshi students
+
 ### Language learning resources
 
 Work in Progress
@@ -102,7 +110,9 @@ Work in Progress
 ## Job Search
 
 ### Finding job portals and agencies
+
 ### Part-time jobs
+
 ### Work culture in Japan
 
 Work in Progress
@@ -114,7 +124,9 @@ Work in Progress
 ## Housing
 
 ### Renting apartments and housing laws
+
 ### Utilities setup
+
 ### Cost of living and affordable housing options
 
 Work in Progress
@@ -126,9 +138,13 @@ Work in Progress
 ## Healthcare
 
 ### Japanese healthcare system overview
+
 ### Visiting a doctor
+
 ### Using an Ambulance
+
 ### Getting health insurance
+
 ### Emergency medical contacts
 
 Work in Progress
@@ -140,8 +156,11 @@ Work in Progress
 ## Banking
 
 ### Opening a bank account
+
 ### Online banking in Japan
+
 ### Mobile Payments in Japan
+
 ### Sending money to Bangladesh
 
 Work in Progress
@@ -153,8 +172,11 @@ Work in Progress
 ## Driving in Japan
 
 ### Getting a driver's license
+
 ### International driving permit
+
 ### Converting Bangladeshi driving license
+
 ### Driving rules and regulations
 
 Work in Progress
