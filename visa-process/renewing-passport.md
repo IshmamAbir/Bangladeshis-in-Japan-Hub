@@ -116,7 +116,7 @@ For postal applications, gather these additional items:
      - Submit your application at the **Consular Section**.
      - Embassy Address:
 
-       ```
+       ```text
        Embassy of Bangladesh, Tokyo
        〒102-0094
        3-29, Kioicho, Chiyoda-ku Tokyo
@@ -125,7 +125,7 @@ For postal applications, gather these additional items:
 
        In japanese:
 
-       ```
+       ```text
        Embassy of Bangladesh
        〒102-0094, 東京都千代田区紀尾井町3-29
        電話番号: +813 3234 5801
