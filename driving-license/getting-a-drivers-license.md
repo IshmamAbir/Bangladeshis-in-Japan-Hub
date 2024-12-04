@@ -1,6 +1,6 @@
 ⬅️ [Back to Main Menu](../README.md#contents)
 
-# 🚗 Getting a Driver's License 📃
+# 🚙 Getting a Driver's License 📃
 
 This guide provides a detailed explanation of the process of obtaining a driving license in Japan, focusing on **car**, **motorcycle**, and **moped**(`原付 => Gentsuki`) licenses. It includes license types, methods of obtaining licenses, exam details, and preparation tips, along with an in-depth explanation of driving schools, driving camps, and their schedules.
 
@@ -45,7 +45,7 @@ For out convenience, we will focus on **car**, **motorcycle**, and **moped** lic
 
 ---
 
-## Automatic vs Manual Car Licenses
+## 🚗 Automatic vs Manual Car Licenses
 
 For ordinary car licenses, there are two main license options:
 
