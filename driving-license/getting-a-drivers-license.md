@@ -1,6 +1,6 @@
 ⬅️ [Back to Main Menu](../README.md#contents)
 
-# Getting a Driver's License
+# 🚗 Getting a Driver's License 📃
 
 This guide provides a detailed explanation of the process of obtaining a driving license in Japan, focusing on **car**, **motorcycle**, and **moped**(`原付 => Gentsuki`) licenses. It includes license types, methods of obtaining licenses, exam details, and preparation tips, along with an in-depth explanation of driving schools, driving camps, and their schedules.
 
@@ -13,10 +13,10 @@ This guide provides a detailed explanation of the process of obtaining a driving
   - [Driving Schools and Camps](#driving-schools-and-camps)
   - [Karimen and Honmen Breakdown](#karimen-and-honmen-breakdown)
   - [Tips for Preparing](#tips-for-preparing)
-- [Motorcycle License](#motorcycle-license)
+- [Motorcycle License](#-motorcycle-license)
   - [Categories and Prerequisites](#categories-and-prerequisites)
   - [Licence Acquiring Process](#licence-acquiring-process)
-- [Moped License](#moped-license)
+- [Moped License](#-moped-license)
   - [Licence Acquiring Process](#moped-licence-acquiring-process)
   - [Rules for Moped Riders](#rules-for-moped-riders)
 
@@ -174,7 +174,7 @@ After completing the lerner's permit phase, you can start the final phase of get
 
 ---
 
-## Motorcycle License
+## 🏍 Motorcycle License
 
 Motorcycle licenses are issued in three categories:
 
@@ -206,7 +206,7 @@ This Process is the same as for a car license. The only difference is the total 
 
 ---
 
-## Moped License
+## 🛵 Moped License
 
 ### Moped Licence Acquiring Process
 
