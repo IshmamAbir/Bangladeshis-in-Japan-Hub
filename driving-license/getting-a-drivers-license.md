@@ -7,8 +7,8 @@ This guide provides a detailed explanation of the process of obtaining a driving
 ## Contents
 
 - [License Types](#license-types)
-- [Car License](#automatic-vs-manual-car-licenses)
-  - [Automatic vs Manual Car Licenses](#automatic-vs-manual-car-licenses)
+- [Car License](#-automatic-vs-manual-car-licenses)
+  - [Automatic vs Manual Car Licenses](#-automatic-vs-manual-car-licenses)
   - [Methods to Obtain a Driving License](#methods-to-obtain-a-driving-license)
   - [Driving Schools and Camps](#driving-schools-and-camps)
   - [Karimen and Honmen Breakdown](#karimen-and-honmen-breakdown)
