@@ -29,7 +29,7 @@
   - [ ] Add fullstop at the end of the sentence.
   - [ ] Add '`⬅️ [Back to Main Menu](../README.md#contents)`' at the start of every `.md` file.
   - [ ] Make sure that your PR title maintain the [regexp rule] [regexp_rule].
-  - [ ] Make sure your changes are passed `awesome-lint`.
+  - [ ] Make sure your changes are passed `linter`.
   - [ ] Include description for adding new features or making significant changes.
 
 ---
