@@ -73,7 +73,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
   - [Bangladeshi organizations in Japan](#bangladeshi-organizations-in-japan)
   - [Religious and cultural centers](#religious-and-cultural-centers) -->
 
-#### Contact
+### Contact
 
 For suggestions or queries, please contact: [ishmam.cse@gmail.com](mailto:ishmam.cse@gmail.com)
 
