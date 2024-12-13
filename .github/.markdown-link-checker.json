@@ -1,0 +1,13 @@
+{
+  "httpHeaders": [
+    {
+      "urls": [
+        "https://visa.vfsglobal.com/",
+        "https://visa.vfsglobal.com/bgd/en/jpn/contact-us"
+      ],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate"
+      }
+    }
+  ]
+}
