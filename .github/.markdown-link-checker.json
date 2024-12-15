@@ -1,7 +1,7 @@
 {
   "httpHeaders": [
     {
-      "urls": ["https://visa.vfsglobal.com/"],
+      "urls": ["https://visa.vfsglobal.com/bgd/en/"],
       "headers": {
         "Accept-Encoding": "zstd, br, gzip, deflate"
       }
