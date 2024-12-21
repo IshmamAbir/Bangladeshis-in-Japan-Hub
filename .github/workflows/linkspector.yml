@@ -1,0 +1,27 @@
+name: Linkspector
+on:
+  push:
+    branches:
+      - main
+      - ft/linkspector
+  pull_request:
+    types:
+      - opened
+      - edited
+      - synchronize
+      - reopened
+  schedule:
+    - cron: "0 8 * * *"
+
+jobs:
+  check-links:
+    name: Check Broken Links
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run linkspector
+        uses: UmbrellaDocs/action-linkspector@v1.2.4
+        with:
+          github_token: ${{ secrets.API_TOKEN }}
+          reporter: github-pr-review
+          fail_on_error: true
