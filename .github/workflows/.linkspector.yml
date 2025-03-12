@@ -1,5 +1,0 @@
-dirs:
-  - .
-excludedDirs:
-  - .github
-useGitIgnore: true
