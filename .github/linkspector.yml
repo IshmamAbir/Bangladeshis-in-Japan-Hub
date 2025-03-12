@@ -1,0 +1,11 @@
+aliveStatusCodes:
+  - 200
+  - 406
+
+dirs:
+  - ./
+
+excludedDirs:
+  - .github
+
+useGitIgnore: true
