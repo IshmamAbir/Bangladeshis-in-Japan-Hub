@@ -26,5 +26,5 @@ jobs:
         with:
           github_token: ${{ secrets.API_TOKEN }}
           reporter: github-pr-review
-          fail_on_error: true
+          fail-level: any
           config_file: .github/linkspector.yml
