@@ -4,7 +4,7 @@ aliveStatusCodes:
 
 dirs:
   - .
-  - "**/*.md"
+  - ./visa-process/applying-for-a-visa.md
 
 excludedDirs:
   - .github
