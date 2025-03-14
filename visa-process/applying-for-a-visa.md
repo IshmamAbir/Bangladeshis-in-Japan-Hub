@@ -131,6 +131,6 @@ Gather the following standard documents:
 
 ---
 
-**Disclaimer:** This guide is for informational purposes only. Refer to the official [VFS Global - Japan](https://visa.vfsglobal.com/bgd/en/jpn/apply-visagjku) website for the most accurate and updated information.
+**Disclaimer:** This guide is for informational purposes only. Refer to the official [VFS Global - Japan](https://visa.vfsglobal.com/bgd/en/jpn/apply-visa) website for the most accurate and updated information.
 
-[⬆ Back to top](#table-of-contentsii)
+[⬆ Back to top](#table-of-contents)
