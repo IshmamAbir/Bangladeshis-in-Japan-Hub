@@ -10,6 +10,9 @@
   "ignorePatterns": [
     {
       "pattern": "^https://visa.vfsglobal.com/bgd/en/jpn"
+    },
+    {
+      "pattern": "^https://vfsvisaonline.com/Global-Passporttracking/Track/"
     }
   ]
 }
