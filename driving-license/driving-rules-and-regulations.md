@@ -49,6 +49,8 @@ Driving in Japan requires adherence to strict rules to ensure safety for all roa
 
 ## Road Signs and Signals
 
+> ⚠ Remember these signs to pass the driving test!
+
 ### Common Road Signs
 
 1. Expressway Exit Ahead
