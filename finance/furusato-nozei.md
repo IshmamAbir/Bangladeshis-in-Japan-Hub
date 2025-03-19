@@ -85,16 +85,16 @@ Sample of the One-Stop Application Form can be found [here](../resources/files/o
 
 There are few sites which offer easy FN options. These are:
 
-- https://www.furusato-tax.jp/
-- https://www.satofull.jp/
-- https://event.rakuten.co.jp/furusato/
-- https://furunavi.jp/
-- https://furusato.ana.co.jp/
-- https://26p.jp/
-- https://furusato.asahi.co.jp/
-- https://mifurusato.jp/j/262129.html
-- https://furusato.ikyu.com/
-- https://furusato.wowma.jp/
+- [https://www.furusato-tax.jp/](https://www.furusato-tax.jp/)
+- [https://www.satofull.jp/](https://www.satofull.jp/)
+- [https://event.rakuten.co.jp/furusato/](https://event.rakuten.co.jp/furusato/)
+- [https://furunavi.jp/](https://furunavi.jp/)
+- [https://furusato.ana.co.jp/](https://furusato.ana.co.jp/)
+- [https://26p.jp/](https://26p.jp/)
+- [https://furusato.asahi.co.jp/](https://furusato.asahi.co.jp/)
+- [https://mifurusato.jp/j/262129.html](https://mifurusato.jp/j/262129.html)
+- [https://furusato.ikyu.com/](https://furusato.ikyu.com/)
+- [https://furusato.wowma.jp/](https://furusato.wowma.jp/)
 
 ---
 
