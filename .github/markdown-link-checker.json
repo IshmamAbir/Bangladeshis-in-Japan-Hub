@@ -3,7 +3,7 @@
     {
       "urls": ["https://www.satofull.jp/"],
       "headers": {
-        "Accept-Encoding": "zstd, br, gzip, deflate"
+        "Accept": "*/*"
       }
     }
   ],
