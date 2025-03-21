@@ -9,7 +9,7 @@
   ],
   "ignorePatterns": [
     {
-      "pattern": "^https://visa.vfsglobal.com/bgd/en/jpn"
+      "pattern": "^https://www.satofull.jp/"
     },
     {
       "pattern": "^https://furusato-kyotango.jp/en/"
