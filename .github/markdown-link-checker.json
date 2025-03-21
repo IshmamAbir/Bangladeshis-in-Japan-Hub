@@ -14,5 +14,10 @@
     {
       "pattern": "^https://www.vfsvisaonline.com/Global-Passporttracking/Track/"
     }
-  ]
+  ],
+  "timeout": "20s",
+  "retryOn429": true,
+  "retryCount": 5,
+  "fallbackRetryDelay": "30s",
+  "aliveStatusCodes": [429, 403]
 }
