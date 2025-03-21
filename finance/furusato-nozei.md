@@ -116,7 +116,7 @@ Donation and getting beneft from it is a 5-step process:
 
 - [Hometown Tax for International Residents in Japan](https://furusato-kyotango.jp/en/1/#index01-1)
 - [Reddit](https://www.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/)
-- https://kaikei7.com/furusato_nouzei_gendo_ichiran/
+- [https://kaikei7.com/furusato_nouzei_gendo_ichiran/](https://kaikei7.com/furusato_nouzei_gendo_ichiran/)
 - [Furusato Nozei: A tax donation guide for foreigners](https://www.belongingjapan.com/how-to-guide/finance/furusato-nozei-a-tax-donation-guide-for-foreigners/)
 
 ---
