@@ -42,7 +42,7 @@ Order something from the below given [websites](#websites-for-fn) as a donation 
 
 For getting the tax benefit out of this, A participation fee will be applied to you from the amount that you will receive as tax return. The amount is `¥2000`.
 
-Suppose, you have donated `¥50000` on any FN through online and submitted the donation receipt while tax filing. Then `¥2000` will be taken as the participation fee and (`¥50000-¥2000`)= `¥48000` will be returned to you on your tax return.
+Suppose, you have donated(/purchased) `¥50000` on any FN through online and submitted the donation receipt while tax filing. Then `¥2000` will be taken as the participation fee and (`¥50000-¥2000`)= `¥48000` will be returned to you on your tax return.
 
 ---
 
@@ -66,7 +66,7 @@ To calculate your maximum donation limit, use [this website](https://www.furusat
 
 ## What is One-Stop?
 
-If you gift 5 or fewer municipalities, and you are not required to file a tax return (because the basic YETA(year end tax allowance) covers you / you do not have special circumstances), you can elect to do the "onestop" system, which allows you to avoid having to file a tax return.
+If you gift 5 or fewer municipalities, income is less than 1.95 million yen, and you are not required to file a tax return (because the basic YETA(year end tax allowance) covers you / you do not have special circumstances), you can elect to do the "onestop" system, which allows you to avoid having to file a tax return.
 
 You will need to:
 
@@ -85,6 +85,7 @@ Sample of the One-Stop Application Form can be found [here](../resources/files/o
 
 There are few sites which offer easy FN options. These are:
 
+- [Amazon Japan](https://www.amazon.co.jp/)
 - [https://www.furusato-tax.jp/](https://www.furusato-tax.jp/)
 - [https://www.satofull.jp/](https://www.satofull.jp/)
 - [https://event.rakuten.co.jp/furusato/](https://event.rakuten.co.jp/furusato/)
@@ -100,7 +101,9 @@ There are few sites which offer easy FN options. These are:
 
 ## Donation Process
 
-Donation and getting beneft from it is a 5-step process:
+> **Note**: The gift item’s price is higher than the regular price (approximately three times the market price) because it is being purchased for donation purposes.
+
+Donation and getting benefit from it is a 5-step process:
 
 1. First figure out your donation limit using above steps.
 2. Then choose a municipality you want to donate to.
@@ -115,8 +118,8 @@ Donation and getting beneft from it is a 5-step process:
 ## References
 
 - [Hometown Tax for International Residents in Japan](https://furusato-kyotango.jp/en/1/#index01-1)
-- [Reddit](https://www.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/)
 - [https://kaikei7.com/furusato_nouzei_gendo_ichiran/](https://kaikei7.com/furusato_nouzei_gendo_ichiran/)
+- [Reddit](https://www.reddit.com/r/JapanFinance/comments/zgr11k/guide_to_furusato_nozei_donation_limits/)
 - [Furusato Nozei: A tax donation guide for foreigners](https://www.belongingjapan.com/how-to-guide/finance/furusato-nozei-a-tax-donation-guide-for-foreigners/)
 
 ---
