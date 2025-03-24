@@ -9,7 +9,7 @@ This document provides a detailed breakdown of the tax benefit, the return calcu
 
 1. [Overview](#overview)
 2. [How The Tax Benefit Works](#how-the-tax-benefit-works)
-3. [Participation Process & Fee](#participation-process-fee)
+3. [Participation Process & Fee](#participation-process-and-fee)
 4. [Donation Limit](#donation-limit)
 5. [Return Calculation](#return-calculation)
 6. [What is One-Stop?](#what-is-one-stop)
@@ -34,7 +34,7 @@ It is a simple 3-part process:
 
 ---
 
-## Participation Process & Fee
+## Participation Process and Fee
 
 Order something from the below given [websites](#websites-for-fn) as a donation gift and pay the fee for it. You became the participants of the FN donation! Its as simple as that.
 
