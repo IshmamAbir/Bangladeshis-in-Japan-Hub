@@ -28,6 +28,12 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
   - Getting health insurance
   - Emergency medical contacts
 
+- Finance
+
+  - Tax calculations
+  - NISA & iDeCo - way of investing
+  - [Furusato nozei - way of saving tax](./finance/furusato-nozei.md)
+
 - Banking
 
   - Opening a bank account
