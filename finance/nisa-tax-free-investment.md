@@ -193,6 +193,7 @@ By starting early, even with a modest amount, Yuki leverages the power of compou
 
 ## Frequently Asked Questions (FAQ)
 
+<!-- markdownlint-disable no-inline-html -->
 <details>
 <summary><h3> Q1: What happens to my old NISA account (from before 2024)? </h3></summary>
 
@@ -249,6 +250,7 @@ If the value of your investments drops, there is no immediate impact on your NIS
 The best choice depends on your needs. The most popular online brokers in Japan (like SBI Securities and Rakuten Securities) are often recommended due to their wide selection of products (especially for the Growth allowance), low fees, and user-friendly platforms. Consider factors like which funds you want to buy, ease of use, and integration with any bank accounts you already have.
 
 </details>
+<!-- markdownlint-enable no-inline-html -->
 
 ## References
 
