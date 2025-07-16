@@ -32,6 +32,7 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
   - Tax calculations
   - NISA & iDeCo - way of investing
+    - [NISA - Tax Free Investment](./finance/nisa-tax-free-investment.md)
   - [Furusato nozei - way of saving tax](./finance/furusato-nozei.md)
 
 - Banking
