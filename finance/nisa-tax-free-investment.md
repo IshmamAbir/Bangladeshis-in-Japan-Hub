@@ -125,25 +125,6 @@ Understanding how the different limits interact is key to maximizing your NISA.
 
 What does this mean? To reach the full ¥18 million lifetime limit, you must invest at least ¥6 million using the Tsumitate allowance. You cannot fill the entire ¥18 million using only the Growth allowance.
 
-## The Fastest Way to Max Out Your NISA
-
-For those with the financial means, it's possible to reach the ¥18 million lifetime limit in just 5 years. Here’s how:
-
-| Year | Tsumitate Investment (¥1.2M/yr) | Growth Investment (¥2.4M/yr) | Total Annual Investment | Lifetime Total (Principal) |
-| ---- | ------------------------------- | ---------------------------- | ----------------------- | -------------------------- |
-| 1    | ¥1,200,000                      | ¥2,400,000                   | ¥3,600,000              | ¥3,600,000                 |
-| 2    | ¥1,200,000                      | ¥2,400,000                   | ¥3,600,000              | ¥7,200,000                 |
-| 3    | ¥1,200,000                      | ¥2,400,000                   | ¥3,600,000              | ¥10,800,000                |
-| 4    | ¥1,200,000                      | ¥2,400,000                   | ¥3,600,000              | ¥14,400,000                |
-| 5    | ¥1,200,000                      | ¥2,400,000                   | ¥3,600,000              | ¥18,000,000                |
-
-After 5 years, you will have perfectly used:
-
-- ¥6 million in the Tsumitate allowance.
-- ¥12 million in the Growth allowance (the maximum allowed).
-
-Your lifetime limit is now full. You cannot make new investments unless you sell existing ones to free up principal for the following year. All your profits from this ¥18 million principal will continue to grow tax-free indefinitely.
-
 ## How Investment Gains Affect Your Limits (A Key Concept)
 
 A common and crucial question is whether profits from your investments use up your NISA allowance. The answer is a clear no. The annual and lifetime limits are based only on the principal amount (the money you put in), not the account's value after it has grown.
