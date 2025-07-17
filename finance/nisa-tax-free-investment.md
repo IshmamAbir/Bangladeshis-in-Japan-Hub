@@ -206,11 +206,11 @@ Your old NISA account is completely separate from the new 2024 NISA. You can no 
 
 Yes, absolutely. Eligibility for NISA is based on your residency status in Japan, not your nationality. As a legal resident of Japan (with a valid residence card and My Number), you can open and use a NISA account under the same rules as a Japanese citizen.
 
-#### Tax in Japan
+### Tax in Japan
 
 All profits (capital gains and dividends) from investments inside your NISA account are tax-free in Japan.
 
-#### Tax in Bangladesh
+### Tax in Bangladesh
 
 This is a key consideration. Japan and Bangladesh have a Double Taxation Avoidance Agreement (DTAA). Generally, this treaty states that capital gains from selling assets like stocks and funds are taxable only in the country where the seller resides. Since you reside in Japan and the gains are tax-free under NISA, they should not be taxed by Bangladesh.
 
