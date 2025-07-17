@@ -97,11 +97,11 @@ This is one of the most powerful features of the new NISA.
 - **Management**: The limit is tracked based on the principal amount (acquisition cost) of your investments, not their current market value.
   Think of it like a water bottle: the limit is based on how much water you pour in (principal), not how much it expands or shrinks inside the bottle (market value changes).
 
-### A Revolutionary Feature: The Limit is Reusable!
+### A Revolutionary Feature: The Limit is Reusable
 
 When you sell an asset, the original purchase price (principal or acquisition cost) of that investment frees up space in your lifetime limit. This space becomes available to use again starting from the next calendar year.
 
-#### Example of Reusing the Limit:
+#### Example of Reusing the Limit
 
 - **Investment**: You invest ¥2 million in stocks using your Growth allowance. Your remaining lifetime limit is now ¥16 million.
 - **Growth**: Over a few years, your stocks grow in value to ¥3 million.
@@ -206,15 +206,15 @@ Your old NISA account is completely separate from the new 2024 NISA. You can no 
 
 Yes, absolutely. Eligibility for NISA is based on your residency status in Japan, not your nationality. As a legal resident of Japan (with a valid residence card and My Number), you can open and use a NISA account under the same rules as a Japanese citizen.
 
-### Tax in Japan:
+#### Tax in Japan
 
 All profits (capital gains and dividends) from investments inside your NISA account are tax-free in Japan.
 
-### Tax in Bangladesh:
+#### Tax in Bangladesh
 
 This is a key consideration. Japan and Bangladesh have a Double Taxation Avoidance Agreement (DTAA). Generally, this treaty states that capital gains from selling assets like stocks and funds are taxable only in the country where the seller resides. Since you reside in Japan and the gains are tax-free under NISA, they should not be taxed by Bangladesh.
 
-### Remitting money home:
+### Remitting money home
 
 Sending your investment profits from Japan to Bangladesh is typically considered a remittance and is not taxed as income. However, once that money is in a Bangladeshi bank and starts generating its own income (like interest), that new income would be subject to Bangladeshi tax laws.
 
