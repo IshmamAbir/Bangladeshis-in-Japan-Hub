@@ -19,7 +19,6 @@ This guide will break down everything you need to know.
 - [The Lifetime Non-Taxable Limit (生涯非課税限度額)](#the-lifetime-non-taxable-limit-生涯非課税限度額)
   - [A Revolutionary Feature: The Limit is Reusable!](#a-revolutionary-feature-the-limit-is-reusable)
 - [Breaking Down the Limits: Annual & Lifetime](#breaking-down-the-limits-annual--lifetime)
-  - [The Fastest Way to Max Out Your NISA](#the-fastest-way-to-max-out-your-nisa)
 - [How Investment Gains Affect Your Limits (A Key Concept)](#how-investment-gains-affect-your-limits-a-key-concept)
 - [Real-Life Examples & Strategies](#real-life-examples--strategies)
 - [Important Considerations & Caveats](#important-considerations--caveats)
