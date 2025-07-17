@@ -8,6 +8,23 @@ The Japanese government has revamped the NISA program to strongly encourage a sh
 
 This guide will break down everything you need to know.
 
+## Table of Contents
+
+- [Old NISA vs. New NISA: What's the Difference?](#old-nisa-vs-new-nisa-whats-the-difference)
+- [With NISA vs. Without NISA: A Clear Example](#with-nisa-vs-without-nisa-a-clear-example)
+- [Key Features of the New NISA (2024 System)](#key-features-of-the-new-nisa-2024-system)
+- [The Two Investment Allowances: Tsumitate vs. Growth](#the-two-investment-allowances-tsumitate-vs-growth)
+  - [1. Tsumitate (つみたて) Investment Allowance](#1-tsumitate-つみたて-investment-allowance)
+  - [2. Growth (成長) Investment Allowance](#2-growth-成長-investment-allowance)
+- [The Lifetime Non-Taxable Limit (生涯非課税限度額)](#the-lifetime-non-taxable-limit-生涯非課税限度額)
+  - [A Revolutionary Feature: The Limit is Reusable!](#a-revolutionary-feature-the-limit-is-reusable)
+- [Breaking Down the Limits: Annual & Lifetime](#breaking-down-the-limits-annual--lifetime)
+  - [The Fastest Way to Max Out Your NISA](#the-fastest-way-to-max-out-your-nisa)
+- [How Investment Gains Affect Your Limits (A Key Concept)](#how-investment-gains-affect-your-limits-a-key-concept)
+- [Real-Life Examples & Strategies](#real-life-examples--strategies)
+- [Important Considerations & Caveats](#important-considerations--caveats)
+- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
+
 ## Old NISA vs. New NISA: What's the Difference?
 
 Before diving in, it's important to understand the distinction between the two NISA systems.
