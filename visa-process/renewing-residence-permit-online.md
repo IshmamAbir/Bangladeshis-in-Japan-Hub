@@ -9,7 +9,7 @@ This document covers everything from system setup, downloading and completing th
 ## Table of Contents
 
 - [Prerequisites: What You Need](#-prerequisites-what-you-need)
-- [Step 1: System Setup (PC & Software)](#-step-1-system-setup-pc--software)
+- [Step 1: System Setup (PC & Software)](#step-1)
 - [Step 2: Registering Your Account](#-step-2-registering-your-account)
 - [Step 3: Download & Complete the Application Forms](#-step-3-download--complete-the-application-forms)
 - [Step 4: Prepare Supporting Documents](#-step-4-prepare-supporting-documents)
@@ -37,14 +37,14 @@ Before you begin, ensure you have the following items:
 
 ---
 
-## 🖥️ Step 1: System Setup (PC & Software)
+## 🖥️ Step 1: System Setup (PC & Software) {#step-1}
 
 Before you can register, you must install the "JPKI" software, which allows the website to read your MyNumber Card.
 
 ### 1. Set Up Your IC Card Reader (Recommended Method)
 
-1.  **Purchase a Reader:** Buy a MyNumber Card compatible IC Card Reader. They are available on Amazon Japan, Rakuten, or at electronics stores like Yodobashi Camera or Bic Camera.
-2.  **Plug It In:** Connect the reader to your PC's USB port.
+1. **Purchase a Reader:** Buy a MyNumber Card compatible IC Card Reader. They are available on Amazon Japan, Rakuten, or at electronics stores like Yodobashi Camera or Bic Camera.
+2. **Plug It In:** Connect the reader to your PC's USB port.
 
 ### 2. Install Required Software & Extensions
 
@@ -125,7 +125,7 @@ Go to the ISA's official forms page to get the correct files for your visa type.
 4. **Physically Sign:** Go to the designated signature box on the "For Applicant" form and **physically sign** it with a pen.
 5. **Scan:** Scan the completed and signed paper forms to PDF.
 
-### Tips for Filling Forms:
+### Tips for Filling Forms
 
 - **Write Your Name EXACTLY as it Appears on Your Residence Card:** This is a critical check. Look at your current residence card. Your name must be written in the exact same order and case.
   - _Example:_ On the application, write `CHOWDHURY ISHMAM ABIR` (all uppercase, family name first) if that is what is printed on your card. Do not write "Ishmam Abir Chowdhury".
@@ -258,10 +258,12 @@ Here is what you need to send:
    - Yes, you must send the **original** card.
    - **!! IMPORTANT !!:** Before you mail it, **make a high-quality color copy (front and back)**.
    - On the _back_ of the copy, write the information from your email:
+
      ```text
      申請受付日：<Your Application Date, e.g., 2025年10月7日>
      申請受付番号：<Your Receipt Number, e.g., 福オンＥＮ25001878>
      ```
+
    - You **must** carry this copy and your passport with you at all times as proof of your status until your new card arrives.
 
 4. **Designation Paper (`指定書 => shiteisho`) (If applicable):**
