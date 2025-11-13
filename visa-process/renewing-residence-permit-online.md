@@ -202,7 +202,7 @@ The online portal has a strict file size limit (often 10MB total). You must merg
 Now you use the online system to submit your application.
 
 1. **Log In:** Go to the [ISA Online System](https://www.ras-immi.moj.go.jp/WC01/WCAAS010/) and log in.
-2. **Start Application:** Find and select the "Application for Extension of Period of Stay" (`在留期間更新許可申請`).
+2. **Start Application:** Find and select the "Application for Extension of Period of Stay" (`在留期間更新許可申請 => Zairyū kikan kōshin kyoka shinsei`).
 3. **Complete the Web Form:** The portal will ask you to fill in _basic_ information (like your name, residence card number, etc.). This is _in addition_ to the forms you already filled out.
 4. **!! CRITICAL: Check Files Before Uploading !!**
    - The online system **does not allow you to delete or replace a file** once you have uploaded it.
@@ -212,7 +212,7 @@ Now you use the online system to submit your application.
    - Your single, merged, compressed PDF (from Step 5)
 6. **Click the Final "Submit" Button:**
    - After all files are uploaded, you **must** click the final "Submit" (`申請`) button.
-   - Your application **will not proceed** just by uploading the files. You must confirm the submission. You should receive a confirmation email and a receipt number (`申請受付番号`) almost immediately.
+   - Your application **will not proceed** just by uploading the files. You must confirm the submission. You should receive a confirmation email and a receipt number (`申請受付番号 => Shinsei uketsuke bangō`) almost immediately.
 7. **Wait for Review:** After submission, your application status will be "under review." This process can take several weeks to a few months.
 
 ---
@@ -247,7 +247,7 @@ Here is what you need to send:
 2. **Payment Form (`手数料納付書 => tesuuryou noufusho`):**
 
    - Download the form [here (PDF)](http://www.moj.go.jp/isa/content/930002833.pdf).
-   - Buy a **Revenue Stamp (`収入印紙 => shuunyuu inshi`)** for the required amount (e.g., ¥4,000 or ¥5,500 as specified in your email).
+   - Buy a **Revenue Stamp (`収入印紙 => shuunyuu inshi`)** for the required amount (e.g., ¥5,500 as specified in your email).
    - Stick the revenue stamp onto the payment form.
    - Fill in your Application Receipt Number (`申請受付番号`) and your Name (`氏名`) on the form.
 
@@ -287,7 +287,7 @@ After you mail the documents, all you have to do is wait.
 - **Save Your Progress:** The online system can time out. Save your application as a draft (`一時保存`) frequently.
 - **Apply Early:** The system allows you to apply 3 months before your card expires. Do it as soon as possible.
 - **Use Convenience Stores:** Getting your tax certificates (`課税・納税証明書`) from a convenience store using your MyNumber Card is the fastest and easiest way.
-- **Letter Pack Plus:** Use the red `Letter Pack Plus` (¥600) for mailing your card. It's tracked and requires a signature, giving you peace of mind. Alternatively, you can also use `Letter Pack Light` or `Envelope with Stamps` but these can't be tracked.
+- **Letter Pack Plus:** Use the red `Letter Pack Plus` (¥600) for mailing your card. It's tracked and requires a signature, giving you peace of mind. Alternatively, you can also use `Letter Pack Light` or `Envelope with Stamps` but those can't be tracked.
 - **Digital Photo:** You can take a high-quality photo with your smartphone against a plain white wall. Crop it to the correct aspect ratio, and it's usually accepted.
 - **Adobe Scan:** A free mobile app for your phone (iOS/Android). It's excellent for scanning documents clearly and saving them directly as a PDF.
 

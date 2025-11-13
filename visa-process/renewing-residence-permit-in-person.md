@@ -44,10 +44,10 @@ This is the most important step. You must have all your documents printed and re
 
 You must download and print the official application forms.
 
-- **ISA Application Forms List (Main Page):** [https://www.moj.go.jp/isa/applications/procedures/index.html](https://www.moj.go.jp/isa/applications/procedures/index.html)
+- **ISA Application Forms List (Main Page):** [https://www.moj.go.jp/isa/applications/procedures/16-3.html](https://www.moj.go.jp/isa/applications/procedures/16-3.html)
 - **Direct Links (Form No. 30-2):**
-  - **Excel (`.xlsx`) format:** [https://www.moj.go.jp/isa/content/930004115.xlsx](https://www.moj.go.jp/isa/content/930004115.xlsx)
-  - **PDF (`.pdf`) format:** [https://www.moj.go.jp/isa/content/930004102.pdf](https://www.moj.go.jp/isa/content/930004102.pdf)
+  - **Excel (`.xlsx`) format:** [https://www.moj.go.jp/isa/content/930004121.xlsx](https://www.moj.go.jp/isa/content/930004121.xlsx)
+  - **PDF (`.pdf`) format:** [https://www.moj.go.jp/isa/content/930004094.pdf](https://www.moj.go.jp/isa/content/930004094.pdf)
 - **Important:** You must download and print all parts for your visa type. This includes "For Applicant" (`申請人用`) and "For Organization" (`所属機関等作成用`).
 - **Fill and Sign:** It is best to fill the forms using the Excel version, then print them. You must **physically sign** the "For Applicant" form with a pen.
 
@@ -72,7 +72,7 @@ The required documents depend on your visa type.
   - **Source:** [https://www.moj.go.jp/isa/applications/status/gijinkoku.html](https://www.moj.go.jp/isa/applications/status/gijinkoku.html)
 
 - **For All Applicants (Common Documents):**
-  - **Tax & Income Certificates (`課税・納税証明書 => kazei/nouzei shoumeisho`):** The most recent certificates from your City/Ward Office (`市役所`). You can print these at a convenience store using your MyNumber Card.
+  - **Tax & Income Certificates (`課税・納税証明書 => kazei/nouzei shoumeisho`):** The most recent certificates from your City/Ward Office (`市役所・区役所 => shiyakusho/kuyakusho`). You can print these at a convenience store using your MyNumber Card.
   - **Your Passport:** Bring the original.
   - **Your Current Residence Card:** Bring the original.
 
@@ -114,7 +114,7 @@ Now, you must wait. This can take anywhere from two weeks to two months.
    2. Your Passport.
    3. Your current Residence Card (with the `申請中` stamp).
    4. A **Revenue Stamp (`収入印紙 => shuunyuu inshi`)** for the renewal fee.
-      - The fee is written on the postcard (e.g., ¥4,000 or ¥5,500).
+      - The fee is written on the postcard (e.g., ¥6,000).
       - You can buy this stamp at any post office or at the convenience store _inside_ the immigration building.
 2. **Go to the Office:** Go back to the same immigration office.
 3. **Attach the Stamp:** Go to the "Fee Payment" or "Stamp" counter. They will have a small form (the `手数料納付書` or _tesuuryou noufusho_). Stick your revenue stamp to this form.
@@ -150,7 +150,7 @@ Now, you must wait. This can take anywhere from two weeks to two months.
 - [ ] Approval Postcard (`はがき`)
 - [ ] Your Passport
 - [ ] Your old Residence Card
-- [ ] Revenue Stamp (`収入印紙`) for the fee (e.g., ¥4,000)
+- [ ] Revenue Stamp (`収入印紙`) for the fee (e.g., ¥6,000)
 
 ---
 
