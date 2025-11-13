@@ -13,9 +13,9 @@ This process involves **two separate visits** to the immigration office: one to 
   - [1. Download and Fill the Forms](#1-download-and-fill-the-forms)
   - [2. Prepare Supporting Documents](#2-prepare-supporting-documents)
   - [3. Get a Physical ID Photo](#3-get-a-physical-id-photo)
-- [Step 2: First Visit – Submitting Your Application](#-step-2-first-visit---submitting-your-application)
+- [Step 2: First Visit – Submitting Your Application](#step-2-first-visit---submitting-your-application)
 - [Step 3: Waiting for Approval (The Postcard)](#-step-3-waiting-for-approval-the-postcard)
-- [Step 4: Second Visit – Collecting Your New Card](#-step-4-second-visit--collecting-your-new-card)
+- [Step 4: Second Visit – Collecting Your New Card](#step-4-second-visit--collecting-your-new-card)
 - [Tips for Visiting the Immigration Office](#-tips-for-visiting-the-immigration-office)
 - [Required Documents (Quick Checklist)](#-required-documents-quick-checklist)
 - [Resources](#-resources)
@@ -84,7 +84,7 @@ The required documents depend on your visa type.
 
 ---
 
-## visit 1️⃣ Step 2: First Visit – Submitting Your Application
+## Step 2: First Visit – Submitting Your Application
 
 1. **Find Your Office:** You must go to the regional ISA office that has jurisdiction over your address.
 2. **Go Early:** Arrive _before_ the office opens (e.g., by 8:30 AM). This is the most important tip to avoid waiting all day.
@@ -97,7 +97,7 @@ The required documents depend on your visa type.
 
 ---
 
-## ✉️ Step 3: Waiting for Approval (The Postcard)
+## ✉ Step 3: Waiting for Approval (The Postcard)
 
 Now, you must wait. This can take anywhere from two weeks to two months.
 
@@ -107,7 +107,7 @@ Now, you must wait. This can take anywhere from two weeks to two months.
 
 ---
 
-## visit 2️⃣ Step 4: Second Visit – Collecting Your New Card
+## Step 4: Second Visit – Collecting Your New Card
 
 1. **Prepare Your Items:** You must bring four things:
    1. The approval postcard (`はがき`).

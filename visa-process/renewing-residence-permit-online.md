@@ -9,7 +9,7 @@ This document covers everything from system setup, downloading and completing th
 ## Table of Contents
 
 - [Prerequisites: What You Need](#-prerequisites-what-you-need)
-- [Step 1: System Setup - PC & Software](#-step-1-system-setup---pc--software)
+- [Step 1: System Setup (PC & Software)](#-step-1-system-setup-pc--software)
 - [Step 2: Registering Your Account](#-step-2-registering-your-account)
 - [Step 3: Download & Complete the Application Forms](#-step-3-download--complete-the-application-forms)
 - [Step 4: Prepare Supporting Documents](#-step-4-prepare-supporting-documents)
@@ -37,7 +37,7 @@ Before you begin, ensure you have the following items:
 
 ---
 
-## 🖥️ Step 1: System Setup - PC & Software
+## 🖥 Step 1: System Setup (PC & Software)
 
 Before you can register, you must install the "JPKI" software, which allows the website to read your MyNumber Card.
 
