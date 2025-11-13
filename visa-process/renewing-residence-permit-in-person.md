@@ -13,7 +13,7 @@ This process involves **two separate visits** to the immigration office: one to 
   - [1. Download and Fill the Forms](#1-download-and-fill-the-forms)
   - [2. Prepare Supporting Documents](#2-prepare-supporting-documents)
   - [3. Get a Physical ID Photo](#3-get-a-physical-id-photo)
-- [Step 2: First Visit – Submitting Your Application](#step-2-first-visit---submitting-your-application)
+- [Step 2: First Visit – Submitting Your Application](#step-2-first-visit--submitting-your-application)
 - [Step 3: Waiting for Approval (The Postcard)](#-step-3-waiting-for-approval-the-postcard)
 - [Step 4: Second Visit – Collecting Your New Card](#step-4-second-visit--collecting-your-new-card)
 - [Tips for Visiting the Immigration Office](#-tips-for-visiting-the-immigration-office)
