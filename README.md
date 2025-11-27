@@ -10,6 +10,8 @@ A comprehensive resource for Bangladeshi individuals residing in Japan. This rep
 
   - [Applying for a visa](./visa-process/applying-for-a-visa.md)
   - Renewing residence permit
+    - [In Person](./visa-process/renewing-residence-permit-in-person.md)
+    - [Online](./visa-process/renewing-residence-permit-online.md)
   - [Renewing passport](./visa-process/renewing-passport.md)
   - Switching visa types
   - Immigration office location
