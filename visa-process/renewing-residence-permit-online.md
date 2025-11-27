@@ -280,6 +280,8 @@ After you mail the documents, all you have to do is wait.
 - Within a week or two, your new Residence Card will arrive at your home in the return envelope you provided.
 - They will also return your old card, which will have a hole punched in it to show it is invalid.
 
+> **Note**: Update your new recidence status in your bank account, MyNumber Card & other documents after receiving your new residence card.
+
 ---
 
 ## 💡 Tips & Tricks

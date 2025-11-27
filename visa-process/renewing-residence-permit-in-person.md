@@ -123,6 +123,8 @@ Now, you must wait. This can take anywhere from two weeks to two months.
 6. **Collect Your Card:** When your number is called, hand over your postcard, passport, old residence card, and the form with the revenue stamp.
 7. **Receive Your New Card:** They will give you your passport and your new residence card (they will punch a hole in your old one and return it to you). Your renewal is complete.
 
+> **Note**: Update your new recidence status in your bank account, MyNumber Card & other documents after collecting your new residence card.
+
 ---
 
 ## 💡 Tips for Visiting the Immigration Office
